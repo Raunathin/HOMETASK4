@@ -4,7 +4,7 @@
 //3, 5 -> 243 (3⁵)
 
 //2, 4 -> 16
-/*
+
 Console.Clear();
 
 System.Console.WriteLine("Введите число A: ");
@@ -22,7 +22,7 @@ power*=num1;
 return power;
 }
 System.Console.WriteLine($"Число {PowNumber(a, b)}");
-*/
+
 /*
 Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 
@@ -31,7 +31,7 @@ System.Console.WriteLine($"Число {PowNumber(a, b)}");
 82 -> 10
 
 9012 -> 12
-
+*/
 
 Console.Clear();
 
@@ -50,7 +50,7 @@ int Summ(int number){
  return result;
 }
 System.Console.WriteLine($"Сумма чисел: {Summ(a)}");
-*/
+
 /*
 Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
